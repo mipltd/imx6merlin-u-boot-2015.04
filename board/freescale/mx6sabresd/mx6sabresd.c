@@ -684,7 +684,7 @@ int board_late_init(void)
 
 int checkboard(void)
 {
-	puts("Board: MX6-SabreSD\n");
+	puts("Board: MX6-Merlin\n");
 	return 0;
 }
 
